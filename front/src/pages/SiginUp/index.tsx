@@ -22,7 +22,7 @@ const SiginIn: React.FC = () => {
                     <Input name="password" icon={FiLock} type="password" placeholder="Senha" />
                     <Button type="submit">Cadastrar</Button>
                 </Form>
-                <a href="login">
+                <a href="/">
                     <FiArrowLeft />
                     Voltar para Logon
                 </a>
