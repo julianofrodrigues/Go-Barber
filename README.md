@@ -1,2 +1,2 @@
-# Trab-POO-AVD-3
-Trabalho POO AVD 3
+# Go Barber
+Front desenvolvido para estudo, para iniciação do trabalho de AVD 3 de POO II
