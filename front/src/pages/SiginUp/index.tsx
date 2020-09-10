@@ -6,7 +6,7 @@ import Input from '../../components/Input';
 import Button from '../../components/Button';
 import { Container, Content, Background } from './styles';
 
-const SiginIn: React.FC = () => {
+const SiginUp: React.FC = () => {
     function handleSubmit(data: object): void{ 
         console.log(data);
     }
@@ -31,4 +31,4 @@ const SiginIn: React.FC = () => {
     );
 }
 
-export default SiginIn;
+export default SiginUp;
