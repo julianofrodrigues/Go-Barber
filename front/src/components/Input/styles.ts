@@ -66,7 +66,7 @@ export const Error = styled(Tooltip)`
         background: #C53030;
         color: #FFF;
 
-        & :: before {
+        &::before {
             border-color: #C53030 transparent;
         }
     }
